@@ -96,5 +96,12 @@ If this is useful for your research, please consider cite.
   pages={1465--1474},
   year={2023}
 }
+
+@article{he2023object,
+  title={Object Detection in Hyperspectral Image via Unified Spectral-Spatial Feature Aggregation},
+  author={He, Xiao and Tang, Chang and Liu, Xinwang and Zhang, Wei and Sun, Kun and Xu, Jiangfeng},
+  journal={arXiv preprint arXiv:2306.08370},
+  year={2023}
+}
 ```
 
