@@ -84,3 +84,17 @@ python tools/TestJson2VocClassTxt.py --json_path 'runs/val/obb_demo/best_obb_pre
 python DOTA_devkit-master/dota_evaluation_task1.py 
 ```
 
+## Citation
+
+If this is useful for your research, please consider cite.
+
+```
+@inproceedings{he2023multispectral,
+  title={Multispectral Object Detection via Cross-Modal Conflict-Aware Learning},
+  author={He, Xiao and Tang, Chang and Zou, Xin and Zhang, Wei},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={1465--1474},
+  year={2023}
+}
+```
+
