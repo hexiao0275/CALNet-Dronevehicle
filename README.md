@@ -84,6 +84,11 @@ python tools/TestJson2VocClassTxt.py --json_path 'runs/val/obb_demo/best_obb_pre
 python DOTA_devkit-master/dota_evaluation_task1.py 
 ```
 
+
+## Acknowledgment
+
+Our codes are mainly based on [yolov5](https://github.com/ultralytics/yolov5). Many thanks to the authors!
+
 ## Citation
 
 If this is useful for your research, please consider cite.
@@ -104,4 +109,5 @@ If this is useful for your research, please consider cite.
   year={2023}
 }
 ```
+
 
