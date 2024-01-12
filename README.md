@@ -64,7 +64,7 @@ python train.py
 ```
 ## Install DOTA_devkit. 
 
-# Download DOTA_devkit. 
+### Download DOTA_devkit. 
 
 -[DOTA_devkit]  [download](https://pan.baidu.com/s/1MBW3DK6Vjx09T5dJdiXnig) password:peoe
 
