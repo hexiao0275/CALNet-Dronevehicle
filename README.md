@@ -19,9 +19,13 @@ The dataset is available for download at the following link. Many heartfelt than
 
 [DroneVehicle]([https://github.com/ultralytics/yolov5](https://github.com/VisDrone/DroneVehicle))
 
-Labels for our well organized dataset:
+Processed labels for our carefully organized dataset:
 
 -[Label]  [download](https://pan.baidu.com/s/17tLn0D6yZkVqokMBpis1jw) password:5sow
+
+Pre-training weights download:
+
+-[Weight]  [download](https://pan.baidu.com/s/1PnmdKqIxPnTgK6yQ6WfwpA) password:zvi2
 
 ### CALNet Overview
 <div align="left">
