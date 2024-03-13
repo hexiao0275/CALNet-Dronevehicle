@@ -1,5 +1,5 @@
 
-# Multispectral Object Detection via Cross-Modal Conflict-Aware Learning
+# Multispectral Object Detection via Cross-Modal Conflict-Aware Learning (ACMMM 2023 Oral)
 
 This repo is the official implementation for **Multispectral Object Detection via Cross-Modal Conflict-Aware Learning**. The paper has been accepted to **ACM MM 2023**.
 
